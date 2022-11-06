@@ -1,5 +1,0 @@
-package kodlamaio.rentACar.dataAccess.abstracts;
-
-public interface BrandRepository {
-
-}
